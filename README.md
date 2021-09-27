@@ -9,6 +9,8 @@ Note: All names used are fictitious.
 	
 The Tableau dashboard can be found [here](https://public.tableau.com/views/UnitTrainingStatus/UnitTrainingStatus?:language=en-US&:display_count=n&:origin=viz_share_link "Unit Training Status").
 
+![Unit Training Dashboard](https://github.com/antonyebrown/Training_Status/blob/main/dashboard_pic.png?raw=true)
+
 ### Skills used:
 	
 **Python**
