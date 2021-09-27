@@ -1,10 +1,12 @@
 # Unit Training Status Dashboard
 
-This Jupityr notebook will create a table of a unit's training status from from raw .csv exports.
+This Jupityr notebook will create a table of a unit's training status from from raw .csv exports. These files were a bit tricky to wrangle: Not all students had attempted the same courses, and many courses have different due dates (1, 2, or 3 years from last completion).
 
-The goal is to have a semi-automated process that works from .csv files that the unit training manager can download. Then, the analyst simply has to drop the files into the appropriate folder on a weekly (or any timeframe) basis, and run this workbook. The resulting table will be linked to Tableau for visualization.
+The goal is to have a semi-automated process that works from .csv files that the unit training manager can download. Then, the analyst simply has to drop the files into the appropriate folder on a weekly (or any timeframe) basis, and run this workbook. The resulting table is then linked to Tableau as an interactive dashboard for visualization, where the most important courses are tracked.
 
 Note: All names used are fictitious.
+
+
 
 ### Skills used:
 	
